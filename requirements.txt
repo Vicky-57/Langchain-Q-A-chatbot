@@ -4,4 +4,4 @@ openai
 huggingface_hub
 python-dotenv
 
-# python -m http.server -- command for running the start a simple HTTP server
+# python -m http.server -- command for running to start a simple HTTP server
