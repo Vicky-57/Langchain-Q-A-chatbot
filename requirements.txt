@@ -1,0 +1,7 @@
+langchain
+openai
+#ipykernel is also there but we are not adding it here because at the time of deployment in the cloud it would not be require 
+huggingface_hub
+python-dotenv
+
+# python -m http.server -- command for running the start a simple HTTP server
